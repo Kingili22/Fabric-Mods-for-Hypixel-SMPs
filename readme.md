@@ -1,4 +1,6 @@
+<p align="center">
 #center **THIS IS A WIP IT IS NOT FULLY COMPLETED YET** 
+</p>
 # Fabric Mods for Hypixel SMP's
 ## Performance Mods
 | Mods     | Description | Developer|
