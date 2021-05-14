@@ -1,4 +1,9 @@
 # Fabric Mods for Hypixel SMP's
+## Fabric API
+**YOU NEED THE FABRIC API MOD TO MAKE ANY OF THESE WORK**
+|Mods| Description| Developer|
+|---|---|---
+|[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)|Fabric API is essential for most mods.|[modmuss50](https://www.curseforge.com/members/modmuss50/)|
 ## Performance Mods
 | Mods     | Description | Developer|
 | ----------- | ----------- |---|
