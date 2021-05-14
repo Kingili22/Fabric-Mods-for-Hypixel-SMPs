@@ -4,7 +4,7 @@ info here
 
 ### Performance Mods
 |Mod|Benefits|Download|
-|---|--------||
+---
 |Sodium|<text> |<url>|
 
 credits here
