@@ -6,3 +6,5 @@
 |[Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)|EBE is a client side mod which aims to increase the performance of block entity rendering.|[FoundationGames](https://www.curseforge.com/members/foundationgames)
 |[Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)|Ok Zoomer is an alternative to optifine zoom for fabric.|[Boredomh1](https://www.curseforge.com/members/boredomh1)
 |[Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)|Entity Culling uses async path-tracing to hide Tiles/Entities that are not visible, by using this it boosts FPS by hiding hidden entities.|[Tr9zw](https://www.curseforge.com/members/tr9zw)
+|[Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)|Mod Menu shows a list of installed mods.|[ProspectorDev](https://www.curseforge.com/members/prospectordev)
+
