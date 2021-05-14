@@ -25,3 +25,7 @@
 |[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|Dynamic lights for fabric.|[LambdAurora](https://modrinth.com/user/rRnTb0fG)|
 |[Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)|Makes the controls menu much easier to edit.|[Jaredllll08](https://www.curseforge.com/members/jaredlll08/projects)|
 |[CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)|Removes seld particle effects.|[LianMI](https://www.curseforge.com/members/lainmi/projects)|
+## Hud Mods
+|Mods| Description| Developer|
+| ---| --- | --- |
+|[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin/)| Appleskin is a mod that adds visualization to saturation and also shows how much saturation and hunger you would gain when holding food.|[squeek502](https://www.curseforge.com/members/squeek502)
