@@ -36,6 +36,4 @@
 |[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin/)| Appleskin is a mod that adds visualization to saturation and also shows how much saturation and hunger you would gain when holding food.|[squeek502](https://www.curseforge.com/members/squeek502)
 |[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)|Inventory HUD+ is a mod that has PotionHUD and ArmorHUD|[dmitrylovin](https://www.curseforge.com/members/dmitrylovin)
 ---
-:warning: **If you are using Inventory HUD on Hypixel**: Use this one at your own risk! I am not responsible if you get banned!
-
-
+⚠️**EVERY MOD IS USE AT YOUR OWN RISK, I AM NOT RESPONSIBLE IF YOU GET BANNED**
