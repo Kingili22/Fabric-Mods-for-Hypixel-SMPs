@@ -22,6 +22,6 @@
 |[No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/)|Prevents your inventory from shifting when you recieve or lose a potion effect|[Shedaniel](https://www.curseforge.com/members/shedaniel/projects)|
 |[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)|Adds smoother scrolling to various menus|[Shedaniel](https://www.curseforge.com/members/shedaniel/projects)|
 |[No View Bobbing Screen](https://modrinth.com/mod/viewbobbingmod)|Removes the screen shake that comes with the view bobbing effect.|[InboundBark](https://modrinth.com/user/gykYW6ML)|
-|[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|Dynamic lghts for fabric.|[LambdAurora](https://modrinth.com/user/rRnTb0fG)|
+|[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|Dynamic lights for fabric.|[LambdAurora](https://modrinth.com/user/rRnTb0fG)|
 |[Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)|Makes the controls menu much easier to edit.|[Jaredllll08](https://www.curseforge.com/members/jaredlll08/projects)|
 |[CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)|Removes seld particle effects.|[LianMI](https://www.curseforge.com/members/lainmi/projects)|
