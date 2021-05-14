@@ -1,6 +1,6 @@
 # Fabric Mods for Hypixel SMP's
 ## Fabric API
-**YOU NEED THE FABRIC API MOD TO MAKE ANY OF THESE WORK**
+**:warning:YOU NEED THE FABRIC API MOD TO MAKE ANY OF THESE WORK**
 |Mods| Description| Developer|
 |---|---|---|
 |[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)|Fabric API is essential for most mods to function.|[modmuss50](https://www.curseforge.com/members/modmuss50/)|
@@ -34,3 +34,8 @@
 |Mods| Description| Developer|
 | ---| --- | --- |
 |[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin/)| Appleskin is a mod that adds visualization to saturation and also shows how much saturation and hunger you would gain when holding food.|[squeek502](https://www.curseforge.com/members/squeek502)
+|[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)|Inventory HUD+ is a mod that has PotionHUD and ArmorHUD|[dmitrylovin](https://www.curseforge.com/members/dmitrylovin)
+---
+:warning: **If you are using Inventory HUD on Hypixel**: Use this one at your own risk! I am not responsible if you get banned!
+
+
