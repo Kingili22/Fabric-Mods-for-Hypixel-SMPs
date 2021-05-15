@@ -8,8 +8,7 @@
 ## Performance Mods
 | Mods     | Description | Developer|
 | ----------- | ----------- |---|
-|Sodium - Read Below for Download|Sodium helps improve frame rates, reduces micro-stutters and fixes graphics issues, therefore making the game look better.|
-[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
+|Sodium - Read Below for Download|Sodium helps improve frame rates, reduces micro-stutters and fixes graphics issues, therefore making the game look better.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
 |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)|Lithium helps replace a lot of systems inside of Minecraft without changing game behavior and boosts FPS.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
 |[Starlight](https://github.com/Spottedleaf/Starlight/releases)|Starlight rewrites the light engine to fix lighting performance and lighting errors.|[Spottedleaf](https://github.com/Spottedleaf)|
 |[Hydrogen](https://modrinth.com/mod/hydrogen)|Hydrogen reduces the game's memory requirements by implementing more memory-efficient data structures and logic.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
@@ -45,7 +44,7 @@ Navigate to https://github.com/CaffeineMC/sodium-fabric/action
 
 Under  
 ![image](https://user-images.githubusercontent.com/75387946/118344071-fece8f00-b4f1-11eb-9836-27bce88ecc48.png)
-- Click on it, for me it would be  ![image](https://user-images.githubusercontent.com/75387946/118344080-13ab2280-b4f2-11eb-9aba-8a462ebe7f07.png).
+- Find the latest one that says 1.16.x/next and click on it. At the time of writing, for me it would be  ![image](https://user-images.githubusercontent.com/75387946/118344080-13ab2280-b4f2-11eb-9aba-8a462ebe7f07.png).
 
 Scroll down to Build Artifacts
 ![image](https://user-images.githubusercontent.com/75387946/118344082-1c9bf400-b4f2-11eb-93af-83e48be7663b.png)
