@@ -35,7 +35,7 @@
 |Mods| Description| Developer|
 | ---| --- | --- |
 |[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin/)| Appleskin is a mod that adds visualization to saturation and also shows how much saturation and hunger you would gain when holding food.|[squeek502](https://www.curseforge.com/members/squeek502)
-|[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/kronhud)|KronHUD has many HUD's including Potion, Armor and CPS HUDs and many more.|[darkkronicle](https://www.curseforge.com/members/darkkronicle)
+|[KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud)|KronHUD has many HUD's including Potion, Armor and CPS HUDs and many more.|[darkkronicle](https://www.curseforge.com/members/darkkronicle)
 ---
 ### Sodium Download
 The latest version on curseforge and modrinth for Sodium may cause errors with Enhanced Block entities, To fix this you need to download the latest version on their github.
