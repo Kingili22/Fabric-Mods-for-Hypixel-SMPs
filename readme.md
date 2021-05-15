@@ -8,7 +8,8 @@
 ## Performance Mods
 | Mods     | Description | Developer|
 | ----------- | ----------- |---|
-|[Sodium](https://modrinth.com/mod/sodium)|Sodium helps improve frame rates, reduces micro-stutters and fixes graphics issues, therefore making the game look better.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
+|Sodium - Read Below for Download|Sodium helps improve frame rates, reduces micro-stutters and fixes graphics issues, therefore making the game look better.|
+[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
 |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)|Lithium helps replace a lot of systems inside of Minecraft without changing game behavior and boosts FPS.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
 |[Starlight](https://github.com/Spottedleaf/Starlight/releases)|Starlight rewrites the light engine to fix lighting performance and lighting errors.|[Spottedleaf](https://github.com/Spottedleaf)|
 |[Hydrogen](https://modrinth.com/mod/hydrogen)|Hydrogen reduces the game's memory requirements by implementing more memory-efficient data structures and logic.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
@@ -35,5 +36,15 @@
 |Mods| Description| Developer|
 | ---| --- | --- |
 |[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin/)| Appleskin is a mod that adds visualization to saturation and also shows how much saturation and hunger you would gain when holding food.|[squeek502](https://www.curseforge.com/members/squeek502)
-|[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)|Inventory HUD+ has many HUD's including Potion Hud, Armor HUD and Inventory HUD|[dmitrylovin](https://www.curseforge.com/members/dmitrylovin)
+|[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/kronhud)|KronHUD has many HUD's including Potion, Armor and CPS HUDs and many more.|[darkkronicle](https://www.curseforge.com/members/darkkronicle)
 ---
+### Sodium Download
+The latest version on curseforge and modrinth for Sodium may cause errors with Enhanced Block entities, To fix this you need to download the latest version on their github.
+**Steps**
+- Navigate to https://github.com/CaffeineMC/sodium-fabric/action
+- Under![image](https://user-images.githubusercontent.com/75387946/118344071-fece8f00-b4f1-11eb-9836-27bce88ecc48.png) click on the latest version, for me it would be ![image](https://user-images.githubusercontent.com/75387946/118344080-13ab2280-b4f2-11eb-9aba-8a462ebe7f07.png).
+- Go down to Build Artifacts![image](https://user-images.githubusercontent.com/75387946/118344082-1c9bf400-b4f2-11eb-93af-83e48be7663b.png)
+- Click on the Build Artifacts which downloads a ZIP file with the version of sodium thats compatible with EBE! 
+
+
+
