@@ -9,6 +9,7 @@
 | Mods     | Description | Developer|
 | ----------- | ----------- |---|
 |Sodium - Read Below for Download|Sodium helps improve frame rates, reduces micro-stutters and fixes graphics issues, therefore making the game look better.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
+|Indium - Read Below for Download|The Indium mod is required to make Sodium work with many mods that use the Fabric Rendering API.|[comp500](https://github.com/comp500)|
 |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)|Lithium helps replace a lot of systems inside of Minecraft without changing game behavior and boosts FPS.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
 |[Starlight](https://github.com/Spottedleaf/Starlight/releases)|Starlight rewrites the light engine to fix lighting performance and lighting errors.|[Spottedleaf](https://github.com/Spottedleaf)|
 |[Hydrogen](https://modrinth.com/mod/hydrogen)|Hydrogen reduces the game's memory requirements by implementing more memory-efficient data structures and logic.|[Jellysquid3](https://modrinth.com/user/TEZXhE2U)|
@@ -40,7 +41,7 @@
 ### Sodium Download
 The latest version on curseforge and modrinth for Sodium may cause errors with Enhanced Block entities, To fix this you need to download the latest version on their github.
 **Steps**
-Navigate to https://github.com/CaffeineMC/sodium-fabric/action
+Navigate to https://github.com/CaffeineMC/sodium-fabric/actions
 
 Under  
 ![image](https://user-images.githubusercontent.com/75387946/118344071-fece8f00-b4f1-11eb-9836-27bce88ecc48.png)
@@ -50,7 +51,6 @@ Scroll down to Build Artifacts
 ![image](https://user-images.githubusercontent.com/75387946/118344082-1c9bf400-b4f2-11eb-93af-83e48be7663b.png)
 
 
-Click on the Build Artifacts which downloads a ZIP file with the version of sodium thats compatible with EBE and other mods!
+Click on the Build Artifacts which downloads a ZIP file with the version of sodium thats compatible with EBE and other mods! Please use the version of the mod that does not have any extra text after its name.
 
-
-
+**Now that the latest sodium is installed**, please follow these same steps, but for another mod called [Indium](https://github.com/comp500/Indium/actions)
