@@ -18,6 +18,7 @@
 |[Enhanced Block Entities](https://modrinth.com/mod/ebe)|EBE aims to increase the performance of block entity rendering.|[FoundationGames](https://modrinth.com/user/WH9NfS5R)|
 |[Better Beds](https://www.modrinth.com/mod/better-beds)|Better Beds aims to fullfill the same goal as EBE but for beds instead.|[FoundationGames](https://www.modrinth.com/user/6YsSV9eP)|
 |[Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)|Entity Culling uses async path-tracing to hide Tiles/Entities that are not visible, boosting your FPS by hiding hidden entities.|[Tr9zw](https://www.curseforge.com/members/tr9zw/projects)|
+|[Dynamic FPS](https://modrinth.com/mod/dynamic-fps/)|Saves resources by lowering FPS when Minecraft is in the background.|[juliand665](https://modrinth.com/user/HLI9Dbyv)|
 ## QOL Mods
 | Mods     | Description | Developer|
 | ----------- | ----------- |---|
