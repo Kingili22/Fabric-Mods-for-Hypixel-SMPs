@@ -34,6 +34,7 @@
 |[Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)|Makes the controls menu much easier to edit.|[Jaredllll08](https://www.curseforge.com/members/jaredlll08/projects)
 |[Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux)|Adds 360 degree third person rotation mode.|[Cynosphere](https://www.curseforge.com/members/cynosphere/projects)|
 |[CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)|Removes seld particle effects.|[LianMI](https://www.curseforge.com/members/lainmi/projects)|
+|[CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)|Adds DiscordRPC for Minecraft.|[CDAGaming](https://www.curseforge.com/members/cdagaming_/projects)
 ## Hud Mods
 |Mods| Description| Developer|
 | ---| --- | --- |
