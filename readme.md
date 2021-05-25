@@ -31,13 +31,20 @@
 |[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)|Adds smoother scrolling to various menus|[Shedaniel](https://www.curseforge.com/members/shedaniel/projects)|
 |[No View Bobbing Screen](https://modrinth.com/mod/viewbobbingmod)|Removes the screen shake that comes with the view bobbing effect.|[InboundBark](https://modrinth.com/user/gykYW6ML)|
 |[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)|Dynamic lights for fabric.|[LambdAurora](https://modrinth.com/user/rRnTb0fG)|
-|[Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)|Makes the controls menu much easier to edit.|[Jaredllll08](https://www.curseforge.com/members/jaredlll08/projects)|
+|[Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)|Makes the controls menu much easier to edit.|[Jaredllll08](https://www.curseforge.com/members/jaredlll08/projects)
+|[Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux)|Adds 360 degree third person rotation mode.|[Cynosphere](https://www.curseforge.com/members/cynosphere/projects)|
 |[CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)|Removes seld particle effects.|[LianMI](https://www.curseforge.com/members/lainmi/projects)|
+|[CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)|Adds DiscordRPC for Minecraft.|[CDAGaming](https://www.curseforge.com/members/cdagaming_/projects)
 ## Hud Mods
 |Mods| Description| Developer|
 | ---| --- | --- |
 |[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin/)| Appleskin is a mod that adds visualization to saturation and also shows how much saturation and hunger you would gain when holding food.|[squeek502](https://www.curseforge.com/members/squeek502)
 |[KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud)|KronHUD has many HUD's including Potion, Armor and CPS HUDs and many more.|[darkkronicle](https://www.curseforge.com/members/darkkronicle)
+## Bug Fix Mods
+|Mods| Description| Developer|
+| ---| --- | --- |
+|[giz5](https://github.com/Toshimichi0915/giz5)| giz5 is a mod that adds QoL features related to combat and bug fixes, fixing the bug where quickly shifting causes the animation to shift twice and a bug where clicking a settings button when there's a slider under the mouse in the next screen plays the "click" sound twice.|[Toshimichi0915](https://github.com/Toshimichi0915)
+|[Astatine](https://github.com/cbyrneee/Astatine)| Astatine is a mod for Minecraft which fixes common bugs in the game without compromising the core game mechanics. However, you will need to build this mod yourself as a prebuilt version is not available. |[cbyrneee](https://github.com/cbyrneee)
 ---
 ### Sodium Download
 The latest version on curseforge and modrinth for Sodium may cause errors with Enhanced Block entities, To fix this you need to download the latest version on their github.
