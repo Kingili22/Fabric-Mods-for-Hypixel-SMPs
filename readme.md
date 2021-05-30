@@ -48,7 +48,7 @@
 ---
 ### Sodium Download
 The latest version on curseforge and modrinth for Sodium may cause errors with Enhanced Block entities, To fix this you need to download the latest version on their github.
-**Steps**
+#### **Steps**
 Navigate to https://github.com/CaffeineMC/sodium-fabric/actions
 
 Under  
